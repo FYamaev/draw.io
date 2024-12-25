@@ -265,7 +265,7 @@
       <root>
         <mxCell id="BC4szQIssQrzn8wiqJx_-0" />
         <mxCell id="BC4szQIssQrzn8wiqJx_-1" parent="BC4szQIssQrzn8wiqJx_-0" />
-        <mxCell id="HVfQ9R8C9olwwlzY_nE2-5" value="Кластер Slave-узлов" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=bottom;align=left;labelPosition=center;verticalLabelPosition=middle;fontStyle=1;fontSize=13;spacingLeft=2;" vertex="1" parent="BC4szQIssQrzn8wiqJx_-1">
+        <mxCell id="HVfQ9R8C9olwwlzY_nE2-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Slave-узлы" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=bottom;align=left;labelPosition=center;verticalLabelPosition=middle;fontStyle=1;fontSize=13;spacingLeft=2;" vertex="1" parent="BC4szQIssQrzn8wiqJx_-1">
           <mxGeometry y="600" width="750" height="270" as="geometry" />
         </mxCell>
         <mxCell id="BC4szQIssQrzn8wiqJx_-2" value="&lt;span&gt;Server #4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;rotation=0;verticalAlign=top;fontColor=#FFFFFF;fontStyle=1;fontSize=13;" vertex="1" parent="BC4szQIssQrzn8wiqJx_-1">
