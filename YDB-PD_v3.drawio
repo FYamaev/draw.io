@@ -370,31 +370,28 @@
             <mxPoint x="231" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-9" value="Database" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-9" value="Database" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="185" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-10" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Источники данных&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-10" value="&lt;font color=&quot;#ffffff&quot;&gt;Источники данных&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="43.75" y="105" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Визуализация данных&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;Визуализация данных&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="670" y="105" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-15" value="Polymatica Analytics" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/development_globe_sphere-128.png" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-15" value="Polymatica Analytics" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/development_globe_sphere-128.png;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="370" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-16" value="File" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-16" value="File" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="505" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-18" value="Other" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=middle;outlineConnect=0;verticalAlign=middle;align=center;shape=mxgraph.office.clouds.cloud;spacingTop=5;" parent="1" vertex="1">
-          <mxGeometry x="68" y="625" width="94" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-19" value="PD" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/dashboard-128.png" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-19" value="PD" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/dashboard-128.png;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="680" y="185" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-20" value="PostgreSQL" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-20" value="PostgreSQL" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="395" y="375" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-21" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;СУБД&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-21" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;СУБД&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="380" y="285" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IuPUt67D1EdyMQpDrZ7Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="DctJ66sSAZJTUVIjfaTJ-4" target="DctJ66sSAZJTUVIjfaTJ-6">
@@ -407,6 +404,21 @@
         </mxCell>
         <mxCell id="IuPUt67D1EdyMQpDrZ7Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="DctJ66sSAZJTUVIjfaTJ-2" target="DctJ66sSAZJTUVIjfaTJ-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPUt67D1EdyMQpDrZ7Y-23" value="Р7-Офис" style="group;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="640" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPUt67D1EdyMQpDrZ7Y-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/square-128.png;rotation=45;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="IuPUt67D1EdyMQpDrZ7Y-23">
+          <mxGeometry x="19" y="5" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPUt67D1EdyMQpDrZ7Y-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/square-128.png;rotation=45;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="IuPUt67D1EdyMQpDrZ7Y-23">
+          <mxGeometry x="37" y="23" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPUt67D1EdyMQpDrZ7Y-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/square-128.png;rotation=45;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="IuPUt67D1EdyMQpDrZ7Y-23">
+          <mxGeometry x="1" y="23" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPUt67D1EdyMQpDrZ7Y-31" value="&lt;div&gt;csv&lt;/div&gt;&lt;div&gt;json&lt;/div&gt;&lt;div&gt;xlsx&lt;/div&gt;&lt;div&gt;xml&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="85" y="521.25" width="60" height="48.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
