@@ -337,15 +337,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IvM1AD8klN_EULY0ouu9" name="PD_v2">
-    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="280" width="150" height="220" as="geometry" />
+          <mxGeometry x="350" y="410" width="150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="362.5" y="321.25" width="125" height="170" as="geometry" />
+          <mxGeometry x="362.5" y="451.25" width="125" height="170" as="geometry" />
         </mxCell>
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="150" height="650" as="geometry" />
@@ -389,10 +389,10 @@
           <mxGeometry x="680" y="185" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-20" value="PostgreSQL" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="395" y="375" width="60" height="60" as="geometry" />
+          <mxGeometry x="395" y="505" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-21" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;СУБД&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="380" y="285" width="90" height="30" as="geometry" />
+          <mxGeometry x="380" y="415" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IuPUt67D1EdyMQpDrZ7Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="DctJ66sSAZJTUVIjfaTJ-4" target="DctJ66sSAZJTUVIjfaTJ-6">
           <mxGeometry relative="1" as="geometry" />
