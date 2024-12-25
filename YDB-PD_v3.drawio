@@ -341,13 +341,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;rotation=0;" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-1" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;СУБД&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;rotation=0;verticalAlign=top;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="349" y="460" width="150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="361.5" y="501.25" width="125" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-3" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Источники&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;данных&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;verticalAlign=top;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="39" y="150" width="150" height="650" as="geometry" />
         </mxCell>
         <mxCell id="IuPUt67D1EdyMQpDrZ7Y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="IuPUt67D1EdyMQpDrZ7Y-1" target="DctJ66sSAZJTUVIjfaTJ-2">
@@ -359,7 +359,7 @@
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="51.5" y="190" width="125" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" parent="1" vertex="1">
+        <mxCell id="DctJ66sSAZJTUVIjfaTJ-5" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Визуализация&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;данных&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;verticalAlign=top;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="639" y="150" width="150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -373,12 +373,6 @@
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-9" value="Database" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="79" y="235" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-10" value="&lt;font color=&quot;#ffffff&quot;&gt;Источники данных&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="42.75" y="155" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;Визуализация данных&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="669" y="155" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-15" value="Polymatica Analytics" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/development_globe_sphere-128.png;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="79" y="420" width="70" height="70" as="geometry" />
         </mxCell>
@@ -390,9 +384,6 @@
         </mxCell>
         <mxCell id="DctJ66sSAZJTUVIjfaTJ-20" value="PostgreSQL" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="394" y="555" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DctJ66sSAZJTUVIjfaTJ-21" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;СУБД&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="379" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IuPUt67D1EdyMQpDrZ7Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="DctJ66sSAZJTUVIjfaTJ-4" target="DctJ66sSAZJTUVIjfaTJ-6">
           <mxGeometry relative="1" as="geometry" />
@@ -420,7 +411,7 @@
         <mxCell id="IuPUt67D1EdyMQpDrZ7Y-31" value="&lt;div&gt;csv&lt;/div&gt;&lt;div&gt;json&lt;/div&gt;&lt;div&gt;xlsx&lt;/div&gt;&lt;div&gt;xml&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="84" y="571.25" width="60" height="48.75" as="geometry" />
         </mxCell>
-        <mxCell id="IuPUt67D1EdyMQpDrZ7Y-32" value="Клиентское приложение" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;spacingTop=0;spacing=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IuPUt67D1EdyMQpDrZ7Y-32" value="Клиентское&amp;nbsp;&lt;div&gt;приложение&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;spacingTop=0;spacing=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="950" y="150" width="151" height="220" as="geometry" />
         </mxCell>
         <mxCell id="IuPUt67D1EdyMQpDrZ7Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="IuPUt67D1EdyMQpDrZ7Y-33" target="DctJ66sSAZJTUVIjfaTJ-6">
