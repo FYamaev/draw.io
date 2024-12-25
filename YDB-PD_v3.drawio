@@ -427,27 +427,22 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PD_v3" id="-P_eJwNC0lVC7-HkSzc4">
-    <mxGraphModel dx="1909" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="H4KePowgJvmSPLNmz8TC-0" />
         <mxCell id="H4KePowgJvmSPLNmz8TC-1" parent="H4KePowgJvmSPLNmz8TC-0" />
         <mxCell id="H4KePowgJvmSPLNmz8TC-2" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;СУБД&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;rotation=0;verticalAlign=top;fontSize=13;fontStyle=1" vertex="1" parent="H4KePowgJvmSPLNmz8TC-1">
-          <mxGeometry x="610" y="370" width="150" height="220" as="geometry" />
+          <mxGeometry x="585" y="460" width="150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="H4KePowgJvmSPLNmz8TC-3" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="H4KePowgJvmSPLNmz8TC-1">
-          <mxGeometry x="622.5" y="411.25" width="125" height="170" as="geometry" />
+          <mxGeometry x="597.5" y="501.25" width="125" height="170" as="geometry" />
         </mxCell>
         <mxCell id="H4KePowgJvmSPLNmz8TC-4" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Источники&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;данных&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;verticalAlign=top;fontSize=13;" vertex="1" parent="H4KePowgJvmSPLNmz8TC-1">
           <mxGeometry x="930" y="150" width="150" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="H4KePowgJvmSPLNmz8TC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H4KePowgJvmSPLNmz8TC-1" source="H4KePowgJvmSPLNmz8TC-6" target="H4KePowgJvmSPLNmz8TC-3">
+        <mxCell id="H4KePowgJvmSPLNmz8TC-5" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="H4KePowgJvmSPLNmz8TC-1" source="H4KePowgJvmSPLNmz8TC-6" target="H4KePowgJvmSPLNmz8TC-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="845" y="586" />
-              <mxPoint x="845" y="496" />
-              <mxPoint x="820" y="496" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H4KePowgJvmSPLNmz8TC-6" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="H4KePowgJvmSPLNmz8TC-1">
@@ -480,7 +475,7 @@
           <mxGeometry x="389" y="235" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H4KePowgJvmSPLNmz8TC-15" value="PostgreSQL" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="H4KePowgJvmSPLNmz8TC-1">
-          <mxGeometry x="655" y="465" width="60" height="60" as="geometry" />
+          <mxGeometry x="630" y="555" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4KePowgJvmSPLNmz8TC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="H4KePowgJvmSPLNmz8TC-1" source="H4KePowgJvmSPLNmz8TC-7" target="H4KePowgJvmSPLNmz8TC-9">
           <mxGeometry relative="1" as="geometry" />
