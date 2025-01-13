@@ -1728,7 +1728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uE-J4Tgr8yQCsVfpyiEu" name="PD_v4">
-    <mxGraphModel dx="1235" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1924,7 +1924,7 @@
             <mxPoint x="510" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h71knLdtUTUv9CMWA6zR-13" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Live-connect*&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontColor=#FF3333;" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-12">
+        <mxCell id="h71knLdtUTUv9CMWA6zR-13" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Live-connect*&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontColor=#FF3333;fontSize=14;" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-12">
           <mxGeometry x="0.4545" relative="1" as="geometry">
             <mxPoint x="-41" y="-2" as="offset" />
           </mxGeometry>
@@ -1939,7 +1939,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h71knLdtUTUv9CMWA6zR-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Native Client*&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-14">
+        <mxCell id="h71knLdtUTUv9CMWA6zR-15" value="&lt;span&gt;Native Client*&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-14">
           <mxGeometry x="0.43" relative="1" as="geometry">
             <mxPoint x="190" y="-186" as="offset" />
           </mxGeometry>
@@ -1954,9 +1954,9 @@
             <mxPoint x="860" y="1222" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h71knLdtUTUv9CMWA6zR-17" value="CSV/JSON/XLSL/XML" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-16">
+        <mxCell id="h71knLdtUTUv9CMWA6zR-17" value="CSV/JSON/XLSL/XML" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-16">
           <mxGeometry x="0.6" relative="1" as="geometry">
-            <mxPoint x="203" y="-152" as="offset" />
+            <mxPoint x="201" y="-152" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h71knLdtUTUv9CMWA6zR-18" value="Узел СУБД" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontStyle=1;fontSize=14;" vertex="1" parent="1">
@@ -1992,7 +1992,7 @@
             <mxPoint x="500" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h71knLdtUTUv9CMWA6zR-25" value="Скрипты PA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-24">
+        <mxCell id="h71knLdtUTUv9CMWA6zR-25" value="Скрипты PA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-24">
           <mxGeometry x="-0.4917" y="-2" relative="1" as="geometry">
             <mxPoint x="4" y="-9" as="offset" />
           </mxGeometry>
@@ -2025,9 +2025,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h71knLdtUTUv9CMWA6zR-33" value="CSV/JSON/XLSL/XML" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-32">
+        <mxCell id="h71knLdtUTUv9CMWA6zR-33" value="CSV/JSON/XLSL/XML" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-32">
           <mxGeometry x="-0.7035" y="1" relative="1" as="geometry">
-            <mxPoint x="15" y="-13" as="offset" />
+            <mxPoint x="9" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aNzd6NPmwxGE88aOZ_6Z-1" value="&lt;b&gt;*Native Client:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;MS SQL,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;MySQL,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;PostgreSQL, Vertica, ClickHouse, Oracle, Proxima DB, Arenadata DB, Arenadata Postgres, Arenadata QuickMarts, YDB, Greenplum&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
