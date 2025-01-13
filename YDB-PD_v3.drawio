@@ -1728,7 +1728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uE-J4Tgr8yQCsVfpyiEu" name="PD_v4">
-    <mxGraphModel dx="750" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1932,7 +1932,7 @@
         </mxCell>
         <mxCell id="h71knLdtUTUv9CMWA6zR-13" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Live-connect&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontColor=#FF3333;" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-12">
           <mxGeometry x="0.4545" relative="1" as="geometry">
-            <mxPoint x="-41" y="-10" as="offset" />
+            <mxPoint x="-41" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h71knLdtUTUv9CMWA6zR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;spacing=0;exitX=-0.004;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.989;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p4SFhjvlGKmMavnUfZih-1" target="h71knLdtUTUv9CMWA6zR-5">
@@ -1947,7 +1947,7 @@
         </mxCell>
         <mxCell id="h71knLdtUTUv9CMWA6zR-15" value="SQL-запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-14">
           <mxGeometry x="0.43" relative="1" as="geometry">
-            <mxPoint y="-89" as="offset" />
+            <mxPoint x="190" y="-176" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h71knLdtUTUv9CMWA6zR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;exitX=-0.013;exitY=0.393;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.988;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p4SFhjvlGKmMavnUfZih-1" target="h71knLdtUTUv9CMWA6zR-5">
@@ -2000,7 +2000,7 @@
         </mxCell>
         <mxCell id="h71knLdtUTUv9CMWA6zR-25" value="Скрипты PA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-24">
           <mxGeometry x="-0.4917" y="-2" relative="1" as="geometry">
-            <mxPoint x="-32" y="-8" as="offset" />
+            <mxPoint x="4" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h71knLdtUTUv9CMWA6zR-26" value="Polymatica Analytics" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/development_globe_sphere-128.png;fontSize=14;fontStyle=1" vertex="1" parent="1">
@@ -2034,7 +2034,7 @@
         </mxCell>
         <mxCell id="h71knLdtUTUv9CMWA6zR-33" value="CSV/JSON/XLSL/XML" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h71knLdtUTUv9CMWA6zR-32">
           <mxGeometry x="-0.7035" y="1" relative="1" as="geometry">
-            <mxPoint x="-31" y="-13" as="offset" />
+            <mxPoint x="18" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
